@@ -9,7 +9,7 @@ This project demonstrates basic **CRUD operations (Create, Read, Update, Delete)
 
 - Add new users  
 - View user list  
-- Edit existing user details  
+- Edit existing user details   
 - Delete users  
 - Responsive and modern UI design  
 
