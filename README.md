@@ -7,7 +7,7 @@ This project demonstrates basic **CRUD operations (Create, Read, Update, Delete)
 
 ## 🚀 Features
 
-- Add new users  
+- Add new users   
 - View user list  
 - Edit existing user details    
 - Delete users  
